@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestGitIssuesMainProject
+  gitServerName: test2
+  gitUrl: https://github.com/PoojaAnandGit/TestGitIssuesMainProject
+  gitUsername: PoojaAnandGit
+  gitBranch: main
