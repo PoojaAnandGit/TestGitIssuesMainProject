@@ -16,3 +16,7 @@ services:
   packages:
   - name: WmPublic
     version: 11.0.0.0.1002
+- serviceName: project.testgitissuesmain.integrations:e2
+  packages:
+  - name: TestGitIssuesMainProject
+    version: "1.0"
